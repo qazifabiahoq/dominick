@@ -18,6 +18,7 @@ The analysis combines:
 
 The final analytical dataset includes 45,600 store-week observations across 107 stores, providing a robust foundation for both statistical testing and machine learning–based segmentation.
 
+
 ## Dataset
 
 The analysis uses the **Dominick’s Finer Foods dataset** made publicly available by the University of Chicago Booth School of Business through the Kilts Center for Marketing.
