@@ -18,6 +18,16 @@ The analysis combines:
 
 The final analytical dataset includes 45,600 store-week observations across 107 stores, providing a robust foundation for both statistical testing and machine learning–based segmentation.
 
+## Dataset
+
+The analysis uses the **Dominick’s Finer Foods dataset** made publicly available by the University of Chicago Booth School of Business through the Kilts Center for Marketing.
+
+* **Source**: Chicago Booth School of Business – Kilts Center
+* **Dataset**: Dominick’s Finer Foods Retail Data
+* **Access link**: [https://www.chicagobooth.edu/research/kilts/research-data/dominicks](https://www.chicagobooth.edu/research/kilts/research-data/dominicks)
+
+The dataset contains detailed store-level scanner data, customer counts, pricing, promotions, and census-based demographic information collected over multiple years. It has been widely used in academic research on retail pricing, promotions, and consumer behavior, making it well suited for customer-centric promotional analysis and segmentation.
+
 ## Methodology
 
 The project follows the CRISP-DM framework and progresses through three main analytical stages:
